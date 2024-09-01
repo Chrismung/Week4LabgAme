@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|c:\\users\\chrism rovelo\\downloads\\lab week 4 - activity\\assets\\scripts\\consoleprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\consoleprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|c:\\users\\chrism rovelo\\downloads\\lab week 4 - activity\\assets\\scripts\\loadassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConsolePrint.cs",
+              "DocumentMoniker": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\ConsolePrint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConsolePrint.cs",
+              "ToolTip": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\ConsolePrint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConsolePrint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:25:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LoadAssets.cs",
               "DocumentMoniker": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\LoadAssets.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoadAssets.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProgressEvaluator.cs",
               "DocumentMoniker": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\ProgressEvaluator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ProgressEvaluator.cs",
