@@ -2,11 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PrintAndHide : MonoBehaviour
+public class ConsolePrint : MonoBehaviour
 {
-    public Renderer rend;
-    private int i = 3;
     // Start is called before the first frame update
+    private int i = 3;
     void Start()
     {
         
@@ -17,7 +16,5 @@ public class PrintAndHide : MonoBehaviour
     {
         i++;
         Debug.Log(gameObject.name + ":" + i);
-
-
     }
 }

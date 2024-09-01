@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|c:\\users\\chrism rovelo\\downloads\\lab week 4 - activity\\assets\\scripts\\printandhide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\printandhide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|c:\\users\\chrism rovelo\\downloads\\lab week 4 - activity\\assets\\scripts\\consoleprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB50613-C16D-154F-9814-E073F3C26057}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\consoleprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrintAndHide.cs",
-              "DocumentMoniker": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\PrintAndHide.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PrintAndHide.cs",
-              "ToolTip": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\PrintAndHide.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PrintAndHide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Title": "ConsolePrint.cs",
+              "DocumentMoniker": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\ConsolePrint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConsolePrint.cs",
+              "ToolTip": "C:\\Users\\Chrism Rovelo\\Downloads\\Lab Week 4 - Activity\\Assets\\Scripts\\ConsolePrint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConsolePrint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:33:57.558Z",
+              "WhenOpened": "2024-09-01T11:42:57.509Z",
               "EditorCaption": ""
             }
           ]
